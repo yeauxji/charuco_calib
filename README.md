@@ -4,5 +4,6 @@ This project is a C++ implement of our multi-camera system calibration algorithm
 
 ## Requirements
 
-- OpenCV 4.0.0 or later
+- OpenCV 4.6.0
+-   (note: 4.7 and later use different charuco architecture, 4.5 and before use old charuco board layout)
 - OpenCV Contrib (same version as OpenCV)
